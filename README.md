@@ -1,5 +1,5 @@
 <h1 align="center">Game Master</h1>
-<div>
+<div align="center">
 <img width="640" height="212" alt="image" src="https://github.com/user-attachments/assets/20f41680-1394-498f-aaa9-6ece92a97487" />
 </div>
 
