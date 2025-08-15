@@ -10,9 +10,10 @@
 <img width="1138" height="641" alt="image" src="https://github.com/user-attachments/assets/6f242a41-0a55-41f0-a065-062d6ef92130" />
 
 <h3>Participação:</h3>
-> [Beatriz Marques](https://github.com/biaamarquess)  
-> [Catarine Aparecida Almeida Tomaz](https://github.com/tomazzcatarine)  
-> [Maria Eduarda](https://github.com/MariaGomesR)  
-> [Lohany Macedo](https://github.com/Lohanyy17)  
-> [Isabelly Dias](https://github.com/IDBaptista)  
-> [Mirele Victória](https://github.com/Mvictoria218)
+
+[Beatriz Marques](https://github.com/biaamarquess) <br>
+[Catarine Aparecida Almeida Tomaz](https://github.com/tomazzcatarine)  <br>
+[Maria Eduarda](https://github.com/MariaGomesR)  <br>
+[Lohany Macedo](https://github.com/Lohanyy17)  <br>
+[Isabelly Dias](https://github.com/IDBaptista)  <br>
+[Mirele Victória](https://github.com/Mvictoria218)
