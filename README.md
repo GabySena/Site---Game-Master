@@ -12,7 +12,7 @@
 <h3>Participação:</h3>
 
 [Beatriz Marques](https://github.com/biaamarquess) <br>
-[Catarine Aparecida Almeida Tomaz](https://github.com/tomazzcatarine)  <br>
+[Catarine Tomaz](https://github.com/tomazzcatarine)  <br>
 [Maria Eduarda](https://github.com/MariaGomesR)  <br>
 [Lohany Macedo](https://github.com/Lohanyy17)  <br>
 [Isabelly Dias](https://github.com/IDBaptista)  <br>
